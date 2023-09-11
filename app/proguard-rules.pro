@@ -1,0 +1,2 @@
+-keep class com.yifeplayte.wearablelocalaccount.** { <init>(); }
+-keepattributes RuntimeVisibleAnnotations

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WearableLocalAccount</string>
+    <string name="xposed_desc">Force make Xiaomi Wearable uses local accounts</string>
+</resources>
